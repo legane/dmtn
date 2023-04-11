@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shopkey.info	TRUE	/	FALSE	1999999999	_landing_page	%2F
+shopkey.info	TRUE	/	FALSE	1999999999	localization	DE
+shopkey.info	TRUE	/	FALSE	1999999999	_y	a9db1516-2830-445c-be34-5d0f37f53529
+shopkey.info	TRUE	/	FALSE	1999999999	_s	4faefacc-2066-45eb-a049-750e8adf7f15
+shopkey.info	TRUE	/	FALSE	1999999999	_shopify_y	a9db1516-2830-445c-be34-5d0f37f53529
+shopkey.info	TRUE	/	FALSE	1999999999	_shopify_s	4faefacc-2066-45eb-a049-750e8adf7f15
+shopkey.info	TRUE	/	FALSE	1999999999	SameSite	Lax
+
