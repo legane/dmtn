@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopkey.info/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopkey.info/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopkey.info/collections/microsoft-office.atom"/>
+  <title>Shop Key</title>
+  <updated>2023-04-05T17:36:17+00:00</updated>
+  <author>
+    <name>Shop Key</name>
+  </author>
+  <entry>
+    <id>https://shopkey.info/products/8222468145451</id>
+    <published>2023-04-05T17:36:17+00:00</published>
+    <updated>2023-04-05T17:36:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/microsoft-office-2019-windows-license-key"/>
+    <title>Microsoft Office 2019 (Windows License Key)</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_10.png?v=1680716178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00002019","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<h3 data-mce-fragment="1">Microsoft Office 2019 Professional Plus Multilingual License Key</h3>
+<p data-mce-fragment="1">In Microsoft Office 2019 you will find new handy tools for writing, data types, functions, animation, translation and editing tools. For example, you can now insert images in the SVG format and apply filters to them, translate text using Microsoft Translator, create mathematical formulas using the LaTeX syntax, and more. The installer has changed, now it is based on Click-to-Run technology. This means that the office suite with the latest updates will be installed and updated much faster, while taking up less disk space. It also didn’t do without minuses: you cannot choose the installation path and fine-tune the applications in advance. If I don’t do anything with the first one, I plan to add support for custom configuration files over time.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Language:</strong> English,German,Greek,French,Spanish,Italian,Portuguese-Portuguese,Portuguese-Brazil-Russian</p>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="540b1cee c291 4d6b 80fc 1d7e1450f954" src="https://support.content.office.net/en-us/media/540b1cee-c291-4d6b-80fc-1d7e1450f954.png" alt="Slide with examples of SVG filters" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/540b1cee-c291-4d6b-80fc-1d7e1450f954.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Add visual impact</b></p>
+<p data-mce-fragment="1">Bring visual interest to your documents, worksheets, and presentations by inserting Scalable Vector Graphics (SVG) that have filters applied to them.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"> <img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="a9077de0 7396 47fa ad14 1b9024cac562" src="https://support.content.office.net/en-us/media/a9077de0-7396-47fa-ad14-1b9024cac562.png" alt="Translator button, and one word in English and its translation in French" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9077de0-7396-47fa-ad14-1b9024cac562.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Break the language barrier</b></p>
+<p data-mce-fragment="1">Translate words, phrases, and other text selections to another language with Microsoft Translator.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"> <img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="2cb6eeb7 0192 440f 90b7 f8370dc82015" src="https://support.content.office.net/en-us/media/2cb6eeb7-0192-440f-90b7-f8370dc82015.png" alt="Word document that includes a LaTex equation" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/2cb6eeb7-0192-440f-90b7-f8370dc82015.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">LaTeX equation support</b></p>
+<p data-mce-fragment="1">You asked for it! You can now create math equations using LaTeX syntax.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="0bf95b4f 9622 4e76 8f7a eb6f688f3f9e" src="https://support.content.office.net/en-us/media/0bf95b4f-9622-4e76-8f7a-eb6f688f3f9e.png" alt="PowerPoint slide showing planets aligned" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/0bf95b4f-9622-4e76-8f7a-eb6f688f3f9e.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Add motion with Morph</b></p>
+<p data-mce-fragment="1">Make smooth animations, transitions, and object movements across your slides with Morph.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="6c6c353a 9ed6 4c37 89ca 1d82cdc8ffee" src="https://support.content.office.net/en-us/media/6c6c353a-9ed6-4c37-89ca-1d82cdc8ffee.png" alt="A summary view of all slides in a presentation. 3 are selected." data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/6c6c353a-9ed6-4c37-89ca-1d82cdc8ffee.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Find what you’re looking for with Zoom</b></p>
+<p data-mce-fragment="1">Zoom takes you from one slide to another, in any order you like. Skip ahead or revisit slides without interrupting the flow of your presentation.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="066357e8 4508 4fff 9356 e3ff699cb9b9" src="https://support.content.office.net/en-us/media/066357e8-4508-4fff-9356-e3ff699cb9b9.png" alt="Hand holding and clicking the top of a pen next to a laptop screen showing a slideshow" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/066357e8-4508-4fff-9356-e3ff699cb9b9.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Run a slide show with your digital pen *</b></p>
+<p data-mce-fragment="1">Use your Surface pen, or any other pen with a Bluetooth button, to advance your slides.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"></p>
+<p data-mce-fragment="1"><sup class="ocpSup" data-mce-fragment="1">* Requires Windows 10 Fall Creators Update</sup></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="e62525d0 9dd1 4cfd 90ee e1690a70268e" src="https://support.content.office.net/en-us/media/e62525d0-9dd1-4cfd-90ee-e1690a70268e.png" alt="Spreadsheet showing how to use IFS to calculate student grades" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e62525d0-9dd1-4cfd-90ee-e1690a70268e.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">New functions</b></p>
+<p data-mce-fragment="1">TEXTJOIN, CONCAT, IFS, and more. Let Excel do the work so you don’t have to.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="e8e3bc7a 9d3a 442c bb52 3befc9e20ad2" src="https://support.content.office.net/en-us/media/e8e3bc7a-9d3a-442c-bb52-3befc9e20ad2.png" alt="Slide with ink comment" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e8e3bc7a-9d3a-442c-bb52-3befc9e20ad2.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Inking is where it’s at</b></p>
+<p data-mce-fragment="1">Convert ink to shapes, write out complex math problems, highlight text, and more. Use a finger or a pen. A mouse works too!</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"> <img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"> <img title="b1a4f9fe c793 473c 9b73 57bce41bf24c" src="https://support.content.office.net/en-us/media/b1a4f9fe-c793-473c-9b73-57bce41bf24c.png" alt="Visio" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/b1a4f9fe-c793-473c-9b73-57bce41bf24c.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="69de8847 f074 4275 a371 afd074fb57c8" src="https://support.content.office.net/en-us/media/69de8847-f074-4275-a371-afd074fb57c8.png" alt="Database with pie chart in the center of the screen" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/69de8847-f074-4275-a371-afd074fb57c8.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Visualize your data with new charts</b></p>
+<p data-mce-fragment="1">Choose from 11 new charts, including line, column, and bar charts. Match fields to chart dimensions and preview your changes instantly.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="ee854e0f ab7a 4899 9453 c1f5e5c71f15" src="https://support.content.office.net/en-us/media/ee854e0f-ab7a-4899-9453-c1f5e5c71f15.png" alt="Access" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/ee854e0f-ab7a-4899-9453-c1f5e5c71f15.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="f2721ea2 6c19 4659 aa5a f2e3d5576ef2" src="https://support.content.office.net/en-us/media/f2721ea2-6c19-4659-aa5a-f2e3d5576ef2.png" alt="Data type list with Large Number highlighted" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/f2721ea2-6c19-4659-aa5a-f2e3d5576ef2.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Large Number (bigint) data type</b></p>
+<p data-mce-fragment="1">The Large Number data type stores a non-monetary, numeric value and is compatible with the SQL_BIGINT data type in ODBC. This data type efficiently calculates large numbers.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="ee854e0f ab7a 4899 9453 c1f5e5c71f15" src="https://support.content.office.net/en-us/media/ee854e0f-ab7a-4899-9453-c1f5e5c71f15.png" alt="Access" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/ee854e0f-ab7a-4899-9453-c1f5e5c71f15.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="55462ae1 10bd 461d 856d 7d0f22f480c2" src="https://support.content.office.net/en-us/media/55462ae1-10bd-461d-856d-7d0f22f480c2.png" alt="Project plan with a dropdown containing tasks" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/55462ae1-10bd-461d-856d-7d0f22f480c2.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Easily link tasks</b></p>
+<p data-mce-fragment="1">Forget about memorizing the ID of the task you want to link to. Instead, select a cell in either the <b class="ocpUI" data-mce-fragment="1">Predecessors</b> or <b class="ocpUI" data-mce-fragment="1">Successors</b> columns to see a list of all the tasks in your project.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="986a0613 fbd7 472d 9d22 0dafa5e662d3" src="https://support.content.office.net/en-us/media/986a0613-fbd7-472d-9d22-0dafa5e662d3.png" alt="Project" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/986a0613-fbd7-472d-9d22-0dafa5e662d3.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="05244579 91f2 435e bf22 9c9fe2cdd2ed" src="https://support.content.office.net/en-us/media/05244579-91f2-435e-bf22-9c9fe2cdd2ed.png" alt="Timeline with task names and dates" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/05244579-91f2-435e-bf22-9c9fe2cdd2ed.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Task progress at a glance</b></p>
+<p data-mce-fragment="1">Label your timeline bars with task names and dates to quickly communicate project plans and work in progress.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in:</i> <img title="986a0613 fbd7 472d 9d22 0dafa5e662d3" src="https://support.content.office.net/en-us/media/986a0613-fbd7-472d-9d22-0dafa5e662d3.png" alt="Project" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/986a0613-fbd7-472d-9d22-0dafa5e662d3.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="d323d684 7632 4d9c bd4f 9acab681b234" src="https://support.content.office.net/en-us/media/d323d684-7632-4d9c-bd4f-9acab681b234.png" alt="Brainstorming Starter diagram" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/d323d684-7632-4d9c-bd4f-9acab681b234.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Kick-start your diagrams</b></p>
+<p data-mce-fragment="1">The Organization Chart, Brainstorming, and SDL templates have new starter diagrams to get you up and running quickly.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="bf291dbf fbd5 4798 9f2b 155441bfcb56" src="https://support.content.office.net/en-us/media/bf291dbf-fbd5-4798-9f2b-155441bfcb56.png" alt="Visio" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/bf291dbf-fbd5-4798-9f2b-155441bfcb56.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="5aece45b 7fec 4c8b a970 eba708ba1db5" src="https://support.content.office.net/en-us/media/5aece45b-7fec-4c8b-a970-eba708ba1db5.png" alt="Two different web page layouts; one for PC and one for mobile" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/5aece45b-7fec-4c8b-a970-eba708ba1db5.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Bring ideas to life</b></p>
+<p data-mce-fragment="1">New Website Templates are ideal for creating a low-fidelity design sketch to present ideas before the actual design process begins.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="bf291dbf fbd5 4798 9f2b 155441bfcb56" src="https://support.content.office.net/en-us/media/bf291dbf-fbd5-4798-9f2b-155441bfcb56.png" alt="Visio" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/bf291dbf-fbd5-4798-9f2b-155441bfcb56.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1"><img title="55f99e64 f3dd 48ec be06 5c783a75fb1f" src="https://support.content.office.net/en-us/media/55f99e64-f3dd-48ec-be06-5c783a75fb1f.png" alt="Computer screen with document on the left and Accessibility visual with a check mark on the right" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/55f99e64-f3dd-48ec-be06-5c783a75fb1f.png"></div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">One-click fixes for accessibility issues</b></p>
+<p data-mce-fragment="1">The Accessibility Checker is better than ever with updated support for international standards and handy recommendations to make your documents more accessible.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"> <img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"> <img title="1b987f14 b4e8 4958 a16e 22bf7f3f691d" src="https://support.content.office.net/en-us/media/1b987f14-b4e8-4958-a16e-22bf7f3f691d.png" alt="Outlook" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/1b987f14-b4e8-4958-a16e-22bf7f3f691d.png"></p>
+</div>
+</div>
+<div class="supARG-row" data-mce-fragment="1">
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><img title="2757c6b4 25cf 48e8 ac6e a48555085d02" src="https://support.content.office.net/en-us/media/2757c6b4-25cf-48e8-ac6e-a48555085d02.png" alt="Ease of Access options with Sound Scheme highlighted" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/2757c6b4-25cf-48e8-ac6e-a48555085d02.png"></p>
+</div>
+<div class="supARG-column-1-2" data-mce-fragment="1">
+<p data-mce-fragment="1"><b class="ocpLegacyBold" data-mce-fragment="1">Helpful sounds improve accessibility</b></p>
+<p data-mce-fragment="1">Turn on audio cues to guide you as you work. Audio cues are part of sound effects, which you can find in <b class="ocpUI" data-mce-fragment="1">Options</b> &gt; <b class="ocpUI" data-mce-fragment="1">Ease of Access</b>.</p>
+<p data-mce-fragment="1"><i class="ocpItalic" data-mce-fragment="1">New in: </i><img title="a9080a4a 576f 4ffe 8304 c22767c60612" src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png" alt="Word" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/a9080a4a-576f-4ffe-8304-c22767c60612.png"> <img title="e35e614e 8373 44cb b2a1 17ce4b42a68f" src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png" alt="Excel" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/e35e614e-8373-44cb-b2a1-17ce4b42a68f.png"> <img title="48c7c6ec 492e 4c55 b404 e1d1eeada772" src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png" alt="PowerPoint" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/48c7c6ec-492e-4c55-b404-e1d1eeada772.png"> <img title="1b987f14 b4e8 4958 a16e 22bf7f3f691d" src="https://support.content.office.net/en-us/media/1b987f14-b4e8-4958-a16e-22bf7f3f691d.png" alt="Outlook" data-mce-fragment="1" data-mce-src="https://support.content.office.net/en-us/media/1b987f14-b4e8-4958-a16e-22bf7f3f691d.png"></p>
+</div>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Software Full Name: Microsoft Office Professional Plus 2019</li>
+<li data-mce-fragment="1">Setup File Name: Microsoft Office Professional Plus 2019</li>
+<li data-mce-fragment="1">Setup Type: Offline Installer / Full Standalone Setup</li>
+<li data-mce-fragment="1">Compatibility Architecture: 32 Bit (x86) / 64 Bit (x64)</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">“Once installed, you activate by the automated TELEPHONE or ONLINE.  ITS EASY and takes 2 minutes. INCREDIBLE SAVINGS!!</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Genuine keys, that was not used on time. Once activated the product is activated for lifetime.</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">The Activation guide is provided.”</em></strong></p>
+<p data-mce-fragment="1"><a href="https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2019" data-mce-fragment="1" data-mce-href="https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2019">Read More</a></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Product Nr #00002019</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222468145451</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222466572587</id>
+    <published>2023-04-05T17:34:15+00:00</published>
+    <updated>2023-04-05T17:34:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/microsoft-office-2016"/>
+    <title>Microsoft Office 2016</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_8.png?v=1680716057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00002016","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">30 Seconds Delivery by Email</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">RETAIL KEY</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Lifetime License</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Money Back Guarantee</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Warranty &amp; 24/7 Support</strong></li>
+</ul>
+<h3 data-mce-fragment="1">Microsoft Office 2016 Professional Plus v1905 Build 11629.20214 Multilingual</h3>
+<p data-mce-fragment="1">In Office 2016 you will find new handy tools for writing, data types, functions, animation, translation and editing tools. For example, you can now insert images in the SVG format and apply filters to them, translate text using Microsoft Translator, create mathematical formulas using the LaTeX syntax, and more. The installer has changed, now it is based on Click-to-Run technology. This means that the office suite with the latest updates will be installed and updated much faster, while taking up less disk space. It also didn’t do without minuses: you cannot choose the installation path and fine-tune the applications in advance. If I don’t do anything with the first one, I plan to add support for custom configuration files over time.</p>
+<p data-mce-fragment="1">Product Nr <span data-mce-fragment="1">#00002016</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222466572587</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222464344363</id>
+    <published>2023-04-05T17:31:29+00:00</published>
+    <updated>2023-04-05T17:31:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/office-2021-pro-plus-windows-license-key"/>
+    <title>Office 2021 Pro Plus (Windows License Key)</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_6.png?v=1680715914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00002021","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<h2 class="m_-6740426697430757531gmail-p1" data-mce-fragment="1">Office 2021 Pro Plus (Windows License Key)</h2>
+<p data-mce-fragment="1">Office 2021 Pro Plus (Windows License Key).</p>
+<p data-mce-fragment="1">With Microsoft Office 2021 Professional Plus, you will receive the key Microsoft tools to keep you organized and productive whether that be through your business or in the comfort of your own home. In this package, you will receive Word, Excel, Powerpoint, OneNote, Outlook, Publisher, Access, and Skype. All apps are frequently updated so you will always be up to date with the latest features.</p>
+<div class="new_content" data-mce-fragment="1">
+<div class="tr" data-mce-fragment="1">
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/1_630bc3af-6525-4da1-8d5f-d3bf76e4cf8a_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/1_630bc3af-6525-4da1-8d5f-d3bf76e4cf8a_large.png?w=1170&amp;ssl=1"></p>
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Take your writing to the next level with Microsoft Word. Microsoft Word, a word processor is a perfect tool for bloggers, writers, students, or journalists working on professional documents. Use custom templates and added features to take your writing that one step further.</p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Microsoft Excel is a spreadsheet program. Create professional spreadsheets for financial reports using custom-built templates or create your own using modern formulas and calculations.</p>
+<p class="td image" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/2_3691b138-a80b-470b-86cc-d197995880b1_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/2_3691b138-a80b-470b-86cc-d197995880b1_large.png?w=1170&amp;ssl=1"></p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/3_21d814f1-8c09-40fd-979d-144200cee9ab_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/3_21d814f1-8c09-40fd-979d-144200cee9ab_large.png?w=1170&amp;ssl=1"></p>
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Create, neat presentations with Microsoft PowerPoint to make you stand out from the rest. Use animations and pre-made templates to improve your presentations. Perfect for students and business owners.</p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Microsoft Publisher, whilst similar to Word is a basic level publishing tool designed to create books, flyers, or a variety of promotional documents.</p>
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/4_e0f08e5b-8af5-4d0a-859c-3c6d1f78ec1d_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/4_e0f08e5b-8af5-4d0a-859c-3c6d1f78ec1d_large.png?w=1170&amp;ssl=1"></p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><span class="m_-1978683647823504631gmail-Apple-converted-space" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i2.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/5_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i2.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/5_large.png?w=1170&amp;ssl=1"></span></p>
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Outlook is Microsoft’s easy-to-use email service. The desktop application offers more in-depth features than the online outlook service. The perfect tool for all your email needs.</p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">OneNote is best used in a collaborative environment. Insert individual notes, images, or other content found on the internet and share with colleagues or family whilst storing it all in one safe, easy-to-access location.</p>
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/6_4130c250-2ade-49ea-a072-fc0a9e70ef0f_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i1.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/6_4130c250-2ade-49ea-a072-fc0a9e70ef0f_large.png?w=1170&amp;ssl=1"></p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td image m_-3049035662921990993gmail-p1" data-mce-fragment="1"><img class="jetpack-lazy-image jetpack-lazy-image--handled" src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/7_large.png?w=1170&amp;ssl=1" alt="" data-recalc-dims="1" data-lazy-loaded="1" data-mce-fragment="1" data-mce-src="https://i0.wp.com/cdn.shopify.com/s/files/1/0005/3457/7213/files/7_large.png?w=1170&amp;ssl=1"></p>
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Access is a database management software. If you need to build and create a database or web app to work more efficiently then this is for you. With pre-built templates create web apps that work through the browser or databases with no coding required.</p>
+</div>
+<div class="tr" data-mce-fragment="1">
+<p class="td content m_-3049035662921990993gmail-p1" data-mce-fragment="1">Connect with your team anywhere using clients across Windows, Mac, iOS, and Android™, or bring remote participants into meeting spaces of all sizes with Skype for Business. With one click, anyone can join your online meeting, from any device. You can choose to meet right away, or schedule from Outlook for later.</p>
+<p data-mce-fragment="1"><a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2021" data-mce-fragment="1" data-mce-href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2021">Read More</a></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span></p>
+<p data-mce-fragment="1"> <span data-mce-fragment="1">Product Nr #00002021</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222464344363</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222462542123</id>
+    <published>2023-04-05T17:29:22+00:00</published>
+    <updated>2023-04-05T17:29:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/microsoft-office-365-5-users-lifetime"/>
+    <title>Microsoft Office 365 (5 Users, Lifetime)</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_5.png?v=1680715763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00000365","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<div class="wtbx-section-title" data-mce-fragment="1">
+<h3 class="product-tab-title" data-mce-fragment="1">Product Description</h3>
+</div>
+<p data-mce-fragment="1">Office 365 gives you access to the latest available ‌Microsoft ‌Office 365 suite of applications. Office 365 allows you to FREE upgrade whenever Microsoft ‌Office 365 releases a newer version of ‌Office in the future. you will receive the key Microsoft tools to keep you organized and productive whether that be through your business or in the comfort of your own home. </p>
+<p data-mce-fragment="1">Suitable for 5 PCs or Macs, 5 tablets, including iPad, Android or Windows, and 5 phones</p>
+<div class="google-auto-placed ap_container" data-mce-fragment="1">
+<p data-mce-fragment="1">With this, you can get all your favourite ‌Microsoft ‌Office 365 applications including Word, Excel, Powerpoint, Access, OneNote, OneDrive, Outlook, Publisher and MUCH MORE!!! You are also entitled to 5TB OneDrive cloud space to store all your personal documents. (Please note that Publisher and Access are only available for Windows but, not for Mac).</p>
+<p data-mce-fragment="1">FULL OFFICE SUITE – Online &amp; Offline Use</p>
+<p data-mce-fragment="1">Can Install the Latest ‌Microsoft ‌Office 365 on 5 Devices including Windows/Mac/Mobile Devices</p>
+<p data-mce-fragment="1">Supports multiple languages and works WORLDWIDE.</p>
+<p data-mce-fragment="1">Very simple instructions with username and password to download ‌Microsoft ‌Office 365.</p>
+<p data-mce-fragment="1">Super Fast Delivery within few minutes of cleared payment.</p>
+<p data-mce-fragment="1">FAQ</p>
+<p data-mce-fragment="1">you can get support directly from Microsoft.</p>
+<p data-mce-fragment="1">work on both x86 (32bit) and x64 (64bit) versions of Windows 7 or Later and also Mac Os X Yosemite or Later.</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">note:</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">1. Send account information via email</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">2. The account has been fully subscribed to all</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">3. We provide the original account, once you log in for the first time, the account belongs to you</strong></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Connect with your team anywhere using clients across Windows, Mac, iOS, and Android™, or bring remote participants into meeting spaces of all sizes with Skype for Business. With one click, anyone can join your online meeting, from any device. You can choose to meet right away, or schedule from Outlook for later.</p>
+<p data-mce-fragment="1"><a href="https://www.microsoft.com/en-us/microsoft-365/" data-mce-fragment="1" data-mce-href="https://www.microsoft.com/en-us/microsoft-365/">Read More</a></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span></p>
+<p data-mce-fragment="1"> <span data-mce-fragment="1">Product Nr #00000365</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222462542123</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

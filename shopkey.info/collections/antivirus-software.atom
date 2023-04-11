@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopkey.info/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopkey.info/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopkey.info/collections/antivirus-software.atom"/>
+  <title>Shop Key</title>
+  <updated>2023-04-05T17:40:48+00:00</updated>
+  <author>
+    <name>Shop Key</name>
+  </author>
+  <entry>
+    <id>https://shopkey.info/products/8222472274219</id>
+    <published>2023-04-05T17:40:48+00:00</published>
+    <updated>2023-04-05T17:40:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/malwar%D0%B5b%D1%83t%D0%B5%D1%95-pr%D0%B5mium-anti-m%D0%B0lw%D0%B0r%D0%B5-1-year-a%D1%81tiv%D0%B0ti%D0%BEn-for-all-windows-mac-android"/>
+    <title>Malwarеbуtеѕ Prеmium Anti-Mаlwаrе 1 year Aсtivаtiоn for All Windows &amp; Mac &amp; Android</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/6months_1.png?v=1680716450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<p><script src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR" data-sdk-integration-source="button-factory"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00001095","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script> <span data-mce-fragment="1">Secures your PC, files, and privacy 24/7</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Real-Time Protection uses artificial intelligence and machine learning to keep you safe from online threats, even emerging threats that no one has ever seen before.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Protects against online scammers</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Web Protection blocks online scams, infected sites, and malicious links. It also blocks phishing scams, which use fake sites to trick you into revealing private info like your bank details.</span><br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p><span style="text-decoration: underline;"><strong>--The switch operates one device. It cannot be used multiple times on different devices.</strong></span></p>
+<p><br data-mce-fragment="1"><strong data-mce-fragment="1">LICENSE &amp; DELIVERY</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Just after the purchase, you will receive a license and download link by email.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">ALTERNATE OS</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Available for All Windows &amp; Mac &amp; Android.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">SYSTEM REQUIREMENTS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Operating System: Wíndows 11 Wíndows 10, Wíndows 8.1, Wíndows 8, or Wíndows 7 SP1.&amp; Mac &amp; Android.</span><br data-mce-fragment="1"><span data-mce-fragment="1">CPU: Minimum 800 MHz with SSE2 technology.</span><br data-mce-fragment="1"><span data-mce-fragment="1">RAM: 2 GB (64-bit OS), 1 GB (32-bit OS)</span><br data-mce-fragment="1"><span data-mce-fragment="1">Free disk space: Minimum 250 MB.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Recommended screen resolution: 1024x768 or higher.</span><br data-mce-fragment="1"><span data-mce-fragment="1">An active internet connection.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">HOW TO INSTALL?</strong><br data-mce-fragment="1"><br data-mce-fragment="1">Step 1 - Download the product from the download link. We will send you a download link with the keys when you purchase the product<br data-mce-fragment="1"><br data-mce-fragment="1">Step 2 - Make a double click on downloaded setup file &amp; clink run.<br data-mce-fragment="1"><br data-mce-fragment="1">Step 3 - Let it install, once it asks for a License code, enter the license &amp; activate the product.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">LANGUAGES AVAILABLE IN PRODUCT</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Bulgarian, Chinese (Traditional), Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, (Brazil), Portuguese (Portugal), Romanian, Russian, Slovak, Slovenian, Spanish, Swedish.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Product Nr #00001095</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222472274219</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222461067563</id>
+    <published>2023-04-05T17:27:25+00:00</published>
+    <updated>2023-04-05T17:27:25+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/malwar%D0%B5b%D1%83t%D0%B5%D1%95-pr%D0%B5mium-anti-m%D0%B0lw%D0%B0r%D0%B5-lifetime-a%D1%81tiv%D0%B0ti%D0%BEn-for-windows"/>
+    <title>Malwarеbуtеѕ Prеmium Anti-Mаlwаrе LifeTime Aсtivаtiоn for All Windows</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_9.png?v=1680715647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"><br></div>
+</div>
+</div>
+<p><script src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR" data-sdk-integration-source="button-factory"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00001295","amount":{"currency_code":"EUR","value":12.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script> <span data-mce-fragment="1">Secures your PC, files, and privacy 24/7</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Real-Time Protection uses artificial intelligence and machine learning to keep you safe from online threats, even emerging threats that no one has ever seen before.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Protects against online scammers</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Web Protection blocks online scams, infected sites, and malicious links. It also blocks phishing scams, which use fake sites to trick you into revealing private info like your bank details.</span><br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p><span style="text-decoration: underline;"><strong>--The switch operates one device. It cannot be used multiple times on different devices.</strong></span></p>
+<p><br data-mce-fragment="1"><strong data-mce-fragment="1">LICENSE &amp; DELIVERY</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Just after the purchase, you will receive a license and download link by email.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">ALTERNATE OS</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Available for All Windows.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">SYSTEM REQUIREMENTS</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Operating System: Wíndows 11 Wíndows 10, Wíndows 8.1, Wíndows 8, or Wíndows 7.</span><br data-mce-fragment="1"><span data-mce-fragment="1">CPU: Minimum 800 MHz with SSE2 technology.</span><br data-mce-fragment="1"><span data-mce-fragment="1">RAM: 2 GB (64-bit OS), 1 GB (32-bit OS)</span><br data-mce-fragment="1"><span data-mce-fragment="1">Free disk space: Minimum 250 MB.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Recommended screen resolution: 1024x768 or higher.</span><br data-mce-fragment="1"><span data-mce-fragment="1">An active internet connection.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">HOW TO INSTALL?</strong><br data-mce-fragment="1"><br data-mce-fragment="1">Step 1 - Download the product from the download link. We will send you a download link with the keys when you purchase the product<br data-mce-fragment="1"><br data-mce-fragment="1">Step 2 - Make a double click on downloaded setup file &amp; clink run.<br data-mce-fragment="1"><br data-mce-fragment="1">Step 3 - Let it install, once it asks for a License code, enter the license &amp; activate the product.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">LANGUAGES AVAILABLE IN PRODUCT</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Bulgarian, Chinese (Traditional), Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, (Brazil), Portuguese (Portugal), Romanian, Russian, Slovak, Slovenian, Spanish, Swedish.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Product Nr #00001295</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222461067563</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

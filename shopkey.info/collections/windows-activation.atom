@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopkey.info/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopkey.info/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopkey.info/collections/windows-activation.atom"/>
+  <title>Shop Key</title>
+  <updated>2023-04-05T17:35:05+00:00</updated>
+  <author>
+    <name>Shop Key</name>
+  </author>
+  <entry>
+    <id>https://shopkey.info/products/8222467260715</id>
+    <published>2023-04-05T17:35:05+00:00</published>
+    <updated>2023-04-05T17:35:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/windows-10-pro-activation"/>
+    <title>Windows 10 Pro Activation</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_4.png?v=1680716107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00000010","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<p data-mce-fragment="1">Get all the features of Windows 10 Professional operating system plus (Works for both 32bit-64bit).<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Licensed for 1 PC</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Full Version</li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Lifetime License for 1 PC</strong></li>
+<li data-mce-fragment="1">No subscriptions – No monthly/annual fees</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Instant Delivery &amp; Download</strong> – access your software license keys and download links instantly.</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Free Customer Service</strong> – we offer best support for our customers.</li>
+<li data-mce-fragment="1">1 Year Warranty on License Keys</li>
+</ul>
+<h3 data-mce-fragment="1"><em data-mce-fragment="1">*LICENSE KEYS ARE SENT INSTANTLY VIA EMAIL*</em></h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The product comes with instructions for installation/activation, along with a VLK license slot for 1 unique PC. This is the FULL version download. It’s the most complete version available on the market with all the Windows 10 features included.</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">If your device is lost or stolen, BitLocker and BitLocker to Go put everything on lockdown, so no one else can access your systems or data.</li>
+<li data-mce-fragment="1">Log in with Remote Desktop to use your Windows 10 Professional PC while at home, on the road, or anywhere there’s an internet connection.</li>
+<li data-mce-fragment="1">Create your own private app section in the Windows Store for convenient access to the apps you need most.</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">You are already an expert</strong></p>
+<p data-mce-fragment="1">Windows 10 is so familiar and easy to use, you`ll feel like an expert. The Start Menu is back in an expanded form, plus we`ll bring over your pinned apps and favorites so they`re ready and waiting for you. It starts up and resumes fast, has more built-in security to help keep you safe, and is designed to work with software and hardware you already have.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">DIGITAL DELIVERY:</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All our products are delivered digitally via e-mail. You will receive a product key, download file and installation and activation instructions. Most products are delivered within 1-30 minutes. Some products must be delivered manually and can take up to 1 hour to be delivered.</span></p>
+<span data-mce-fragment="1"> </span><span data-mce-fragment="1">Product Nr #00000010</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222467260715</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222465655083</id>
+    <published>2023-04-05T17:33:09+00:00</published>
+    <updated>2023-04-05T17:33:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/windows-10-home-activation"/>
+    <title>Windows 10 Home Activation</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_3.png?v=1680715990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00000012","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<div class="Rte" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">30 Seconds Delivery by Email</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">RETAIL KEY</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Lifetime License</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Money Back Guarantee</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Warranty &amp; 24/7 Support</strong></li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">WINDOWS 10 HOME GENUINE LICENSE KEY 32 &amp; 64-bit</strong></p>
+<p data-mce-fragment="1">Note: This is Windows 10 Home for Windows 10 Pro<span data-mce-fragment="1"> </span><a href="https://www.softkeys.co.uk/product/windows-10-pro-activation/" data-mce-fragment="1" data-mce-href="https://www.softkeys.co.uk/product/windows-10-pro-activation/">Click here</a></p>
+<p data-mce-fragment="1">Best for individuals and households, Windows 10 Home offers the best safety, productivity, and gaming features ever to help you get stuff done.</p>
+<p data-mce-fragment="1"><span class="highlight" data-mce-fragment="1">No DVD/USB pack included, product key only</span></p>
+<p data-mce-fragment="1">100% Genuine <strong data-mce-fragment="1">Windows 10 Home</strong> Key</p>
+<p data-mce-fragment="1">Both 32 bit and 64 bit support</p>
+<p data-mce-fragment="1">Regional Restrictions: Global license, World-wide availability</p>
+<p data-mce-fragment="1">All Languages Support</p>
+<p data-mce-fragment="1">Online Update Support: Keep your Windows up to date</p>
+<p data-mce-fragment="1">One key for 1 PC</p>
+<p data-mce-fragment="1">Not for Trial, OEM, Beta and Non-Genuine version</p>
+<p data-mce-fragment="1">–Retail key means you can transfer this license to another PC when you are buying or building new PC in future.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Download Windows 10 Home</strong>: Visit Microsoft’s <a href="https://www.microsoft.com/en-us/software-download/windows10" data-mce-fragment="1" data-mce-href="https://www.microsoft.com/en-us/software-download/windows10">Download Windows 10 Disc Image (ISO File)</a> page to download and run the media creation tool.</li>
+</ul>
+</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">When will I receive the key(s)?</strong>: You can get the license key via email within 1-12hrs. If you haven’t received the key for hours, please check the spam or junk mail folder.</li>
+</ul>
+</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">100% Working</strong>: The key is a lifetime license! Brand new &amp; original!</li>
+</ul>
+</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quality Assurance</strong>: The product key will never expire, as long as the installation exists. In the unlikely case, you will be offered a <strong class="highlight" data-mce-fragment="1">complete replacement</strong> because it stops working.</li>
+</ul>
+<p data-mce-fragment="1">No matter what help you may need with downloading, installing or activating Windows 10, we’ve got the expertise you need. We’ll give you the support you need until your software is up and running.</p>
+<span data-mce-fragment="1"> </span><span data-mce-fragment="1">Product Nr #00000012</span>
+</div>
+<div class="vtl-tb-main-widget" data-mce-fragment="1">
+<div class="vtl-tb-main-widget__badges" data-mce-fragment="1">
+<div data-mce-fragment="1"><br></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222465655083</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopkey.info/products/8222463590699</id>
+    <published>2023-04-05T17:30:27+00:00</published>
+    <updated>2023-04-05T17:30:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopkey.info/products/windows-11-professional"/>
+    <title>Windows 11 Professional</title>
+    <s:type></s:type>
+    <s:vendor>shopkey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0746/4593/0283/products/Sanstitre_2.png?v=1680715829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shopkey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="smart-button-container">
+<div style="text-align: center;">
+<div id="paypal-button-container"></div>
+</div>
+</div>
+<script data-sdk-integration-source="button-factory" src="https://www.paypal.com/sdk/js?client-id=ATGADZlyv2_ZHexfbRwVGh9q4pZrKs0WvpyMO5reuMICMwbkVGB9gPOrLAaXOwFMVh-yHkDC9DlDEDih&amp;enable-funding=venmo&amp;currency=EUR"></script> <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Product Nr #00000011","amount":{"currency_code":"EUR","value":9.99}}]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Thank you for your payment! You will receive an e-mail from the site attached to the program keys.</h3>';
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+<div class="Rte" data-mce-fragment="1">
+<p data-mce-fragment="1">Product activation Key of Windows 11 Professional operating system plus (Works for both 32bit-64bit).<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Licensed for 1 PC</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Full Version</li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Lifetime License for 1 PC</strong></li>
+<li data-mce-fragment="1">No subscriptions – No monthly/annual fees</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Instant Delivery &amp; Download</strong> – access your software license keys and download links instantly.</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Free Customer Service</strong> – we offer best support for our customers.</li>
+<li data-mce-fragment="1">1 Year Warranty on License Keys</li>
+</ul>
+<span data-mce-fragment="1">Buy Windows 11 Professional today and receive the latest operating system with a multitude of powerful features designed for ease of use, maximum productivity, security, and saving time with quick network connections. This software also features a full-system backup with restore capabilities &amp; much more.</span><br data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Product Nr #00000011</span>
+</div>
+<div class="vtl-tb-main-widget" data-mce-fragment="1">
+<div class="vtl-tb-main-widget__badges" data-mce-fragment="1">
+<div data-mce-fragment="1"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopkey.info/products/8222463590699</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
