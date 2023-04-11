@@ -1,38 +1,69 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Apr 2023 21:55:43 at https://shopkey.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://shopkey.info/* +*https://shopkey.info/*
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shopkey.info/ -O1 "C:\Users\Farid\Desktop\shopkey.info" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://shopkey.info/* +*https://shopkey.info/* )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Apr 2023 19:28:00 at https://king-iptv.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://king-iptv.org/ -O1 "C:\Users\Farid\Desktop\dmtn4k" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/* )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-21:56:47	Error: 	"Not Found" (404) at link https://shopkey.info/GET (from https://shopkey.info/)
-21:56:47	Error: 	"Not Found" (404) at link https://shopkey.info/POST (from https://shopkey.info/)
-21:57:45	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js (from https://shopkey.info/)
-21:57:45	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js?extensionVersion=1.1.0 (from https://shopkey.info/)
-21:57:45	Error: 	"Not Found" (404) at link https://shopkey.info/collections/GET (from https://shopkey.info/collections/top-selling)
-21:57:45	Error: 	"Not Found" (404) at link https://shopkey.info/collections/POST (from https://shopkey.info/collections/top-selling)
-21:57:48	Error: 	"Not Found" (404) at link https://shopkey.info/pages/GET (from https://shopkey.info/pages/contact)
-21:57:48	Error: 	"Not Found" (404) at link https://shopkey.info/pages/POST (from https://shopkey.info/pages/contact)
-21:57:48	Error: 	"Not Found" (404) at link https://shopkey.info/policies/GET (from https://shopkey.info/policies/privacy-policy)
-21:57:48	Error: 	"Not Found" (404) at link https://shopkey.info/policies/POST (from https://shopkey.info/policies/privacy-policy)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/products/GET (from https://shopkey.info/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-lifetime-aсtivаtiоn-for-windows)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/products/POST (from https://shopkey.info/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-lifetime-aсtivаtiоn-for-windows)
-21:57:49	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js (from https://shopkey.info/)
-21:57:49	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js?extensionVersion=1.1.0 (from https://shopkey.info/)
-21:57:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shopkey.info/collections/top-selling/products/GET (from https://shopkey.info/collections/top-selling/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-lifetime-aсtivаtiоn-for-windows)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/top-selling/products/POST (from https://shopkey.info/collections/top-selling/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-lifetime-aсtivаtiоn-for-windows)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/windows-activation/products/GET (from https://shopkey.info/collections/windows-activation/products/windows-10-home-activation)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/windows-activation/products/POST (from https://shopkey.info/collections/windows-activation/products/windows-10-home-activation)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/microsoft-office/products/GET (from https://shopkey.info/collections/microsoft-office/products/microsoft-office-2019-windows-license-key)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/microsoft-office/products/POST (from https://shopkey.info/collections/microsoft-office/products/microsoft-office-2019-windows-license-key)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/antivirus-software/products/GET (from https://shopkey.info/collections/antivirus-software/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-1-year-aсtivаtiоn-for-all-windows-mac-android)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/antivirus-software/products/POST (from https://shopkey.info/collections/antivirus-software/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-1-year-aсtivаtiоn-for-all-windows-mac-android)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/all-products/products/GET (from https://shopkey.info/collections/all-products/products/windows-11-professional)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/all-products/products/POST (from https://shopkey.info/collections/all-products/products/windows-11-professional)
-21:57:49	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js (from https://shopkey.info/)
-21:57:49	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/f6r7gwlq46neonbrhqx8t3os4fqgveci.js?extensionVersion=1.1.0 (from https://shopkey.info/)
-21:57:49	Error: 	"Not Found" (404) at link https://shopkey.info/collections/top-selling/products/GET (from https://shopkey.info/collections/top-selling/products/malwarеbуtеѕ-prеmium-anti-mаlwаrе-lifetime-aсtivаtiоn-for-windows)
+19:30:19	Warning: 	Link https://king-iptv.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/free-trial/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/free-trial/ to https://king-iptv.org/product/free-trial13/
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/1-month/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/1-month/ to https://king-iptv.org/product/1-month13/
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/3-months/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/3-months/ to https://king-iptv.org/product/3-months13/
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/6-months/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/6-months/ to https://king-iptv.org/product/6-months13/
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/12-months/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/12-months/ to https://king-iptv.org/product/12-months13/
+19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/24-months/
+19:32:30	Warning: 	File has moved from https://king-iptv.org/product/24-months/ to https://king-iptv.org/product/24-months13/
+19:32:30	Error: 	"Not Found" (404) at link https://king-iptv.org/king.iptv.team@gmail.com (from https://king-iptv.org/)
+19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=3
+19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=3 to https://king-iptv.org/privacy-policy11/
+19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=121
+19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=121 to https://king-iptv.org/returns-and-refunds-policy11/
+19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=123
+19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=123 to https://king-iptv.org/terms-of-service11/
+19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=49
+19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=49 to https://king-iptv.org/cart/
+19:33:00	Warning: 	Moved Permanently for https://king-iptv.org/?p=52
+19:33:00	Warning: 	File has moved from https://king-iptv.org/?p=52 to https://king-iptv.org/product/free-trial13/
+19:33:02	Warning: 	Moved Permanently for https://king-iptv.org/?p=213513
+19:33:02	Warning: 	File has moved from https://king-iptv.org/?p=213513 to https://king-iptv.org/product/1-month13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=64
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=64 to https://king-iptv.org/product/3-months13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=65
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=65 to https://king-iptv.org/product/6-months13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=66
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=66 to https://king-iptv.org/product/12-months13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=67
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=67 to https://king-iptv.org/product/24-months13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=214155
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=214155 to https://king-iptv.org/customized-package13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=218872
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=218872 to https://king-iptv.org/vip-plan/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=2
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=2 to https://king-iptv.org/channel-list13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=126
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=126 to https://king-iptv.org/tutorials13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=214190
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=214190 to https://king-iptv.org/faq13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=110
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=110 to https://king-iptv.org/how-to-pay13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=213047
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=213047 to https://king-iptv.org/affiliate13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=213045
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=213045 to https://king-iptv.org/reseller13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=218869
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=218869 to https://king-iptv.org/restreaming13/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=8
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=8 to https://king-iptv.org/contact-us11/
+19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=48
+19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=48 to https://king-iptv.org/sub13/
+19:33:04	Error: 	"Bad Request" (400) at link https://king-iptv.org/wp-admin/admin-ajax.php?action=rest-nonce (from https://king-iptv.org/sub13/)
+19:33:04	Error: 	"Not Found" (404) at link https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.1.1)
 
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 6 seconds : 208 links scanned, 180 files written (33479435 bytes overall) [27119930 bytes received at 215237 bytes/sec], 10999605 bytes transferred using HTTP compression in 122 files, ratio 25%, 6.0 requests per connection
-(22 errors, 5 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 4 seconds : 415 links scanned, 384 files written (20287717 bytes overall) [8331744 bytes received at 27407 bytes/sec], 17121918 bytes transferred using HTTP compression in 321 files, ratio 27%, 23.1 requests per connection
+(3 errors, 55 warnings, 0 messages)
