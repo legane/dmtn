@@ -1,69 +1,69 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Apr 2023 19:28:00 at https://king-iptv.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/*
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://king-iptv.org/ -O1 "C:\Users\Farid\Desktop\dmtn4k" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/* )
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Apr 2023 14:54:19 at https://king-iptv.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://king-iptv.org/ -O1 "C:\Users\Farid\Desktop\farid" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://king-iptv.org/* +*https://king-iptv.org/* )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-19:30:19	Warning: 	Link https://king-iptv.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/free-trial/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/free-trial/ to https://king-iptv.org/product/free-trial13/
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/1-month/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/1-month/ to https://king-iptv.org/product/1-month13/
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/3-months/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/3-months/ to https://king-iptv.org/product/3-months13/
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/6-months/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/6-months/ to https://king-iptv.org/product/6-months13/
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/12-months/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/12-months/ to https://king-iptv.org/product/12-months13/
-19:32:30	Warning: 	Moved Permanently for https://king-iptv.org/product/24-months/
-19:32:30	Warning: 	File has moved from https://king-iptv.org/product/24-months/ to https://king-iptv.org/product/24-months13/
-19:32:30	Error: 	"Not Found" (404) at link https://king-iptv.org/king.iptv.team@gmail.com (from https://king-iptv.org/)
-19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=3
-19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=3 to https://king-iptv.org/privacy-policy11/
-19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=121
-19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=121 to https://king-iptv.org/returns-and-refunds-policy11/
-19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=123
-19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=123 to https://king-iptv.org/terms-of-service11/
-19:32:56	Warning: 	Moved Permanently for https://king-iptv.org/?p=49
-19:32:56	Warning: 	File has moved from https://king-iptv.org/?p=49 to https://king-iptv.org/cart/
-19:33:00	Warning: 	Moved Permanently for https://king-iptv.org/?p=52
-19:33:00	Warning: 	File has moved from https://king-iptv.org/?p=52 to https://king-iptv.org/product/free-trial13/
-19:33:02	Warning: 	Moved Permanently for https://king-iptv.org/?p=213513
-19:33:02	Warning: 	File has moved from https://king-iptv.org/?p=213513 to https://king-iptv.org/product/1-month13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=64
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=64 to https://king-iptv.org/product/3-months13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=65
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=65 to https://king-iptv.org/product/6-months13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=66
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=66 to https://king-iptv.org/product/12-months13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=67
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=67 to https://king-iptv.org/product/24-months13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=214155
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=214155 to https://king-iptv.org/customized-package13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=218872
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=218872 to https://king-iptv.org/vip-plan/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=2
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=2 to https://king-iptv.org/channel-list13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=126
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=126 to https://king-iptv.org/tutorials13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=214190
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=214190 to https://king-iptv.org/faq13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=110
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=110 to https://king-iptv.org/how-to-pay13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=213047
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=213047 to https://king-iptv.org/affiliate13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=213045
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=213045 to https://king-iptv.org/reseller13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=218869
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=218869 to https://king-iptv.org/restreaming13/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=8
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=8 to https://king-iptv.org/contact-us11/
-19:33:04	Warning: 	Moved Permanently for https://king-iptv.org/?p=48
-19:33:04	Warning: 	File has moved from https://king-iptv.org/?p=48 to https://king-iptv.org/sub13/
-19:33:04	Error: 	"Bad Request" (400) at link https://king-iptv.org/wp-admin/admin-ajax.php?action=rest-nonce (from https://king-iptv.org/sub13/)
-19:33:04	Error: 	"Not Found" (404) at link https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.1.1)
+14:55:15	Warning: 	Link https://king-iptv.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/free-trial/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/free-trial/ to https://king-iptv.org/product/free-trial13/
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/1-month/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/1-month/ to https://king-iptv.org/product/1-month13/
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/3-months/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/3-months/ to https://king-iptv.org/product/3-months13/
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/6-months/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/6-months/ to https://king-iptv.org/product/6-months13/
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/12-months/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/12-months/ to https://king-iptv.org/product/12-months13/
+14:57:29	Warning: 	Moved Permanently for https://king-iptv.org/product/24-months/
+14:57:29	Warning: 	File has moved from https://king-iptv.org/product/24-months/ to https://king-iptv.org/product/24-months13/
+14:57:29	Error: 	"Not Found" (404) at link https://king-iptv.org/king.iptv.team@gmail.com (from https://king-iptv.org/)
+14:57:54	Warning: 	Moved Permanently for https://king-iptv.org/?p=3
+14:57:54	Warning: 	File has moved from https://king-iptv.org/?p=3 to https://king-iptv.org/privacy-policy11/
+14:57:54	Warning: 	Moved Permanently for https://king-iptv.org/?p=121
+14:57:54	Warning: 	File has moved from https://king-iptv.org/?p=121 to https://king-iptv.org/returns-and-refunds-policy11/
+14:57:54	Warning: 	Moved Permanently for https://king-iptv.org/?p=123
+14:57:54	Warning: 	File has moved from https://king-iptv.org/?p=123 to https://king-iptv.org/terms-of-service11/
+14:57:54	Warning: 	Moved Permanently for https://king-iptv.org/?p=49
+14:57:54	Warning: 	File has moved from https://king-iptv.org/?p=49 to https://king-iptv.org/cart/
+14:57:57	Warning: 	Moved Permanently for https://king-iptv.org/?p=52
+14:57:57	Warning: 	File has moved from https://king-iptv.org/?p=52 to https://king-iptv.org/product/free-trial13/
+14:57:59	Warning: 	Moved Permanently for https://king-iptv.org/?p=213513
+14:57:59	Warning: 	File has moved from https://king-iptv.org/?p=213513 to https://king-iptv.org/product/1-month13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=64
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=64 to https://king-iptv.org/product/3-months13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=65
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=65 to https://king-iptv.org/product/6-months13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=66
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=66 to https://king-iptv.org/product/12-months13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=67
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=67 to https://king-iptv.org/product/24-months13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=214155
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=214155 to https://king-iptv.org/customized-package13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=218872
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=218872 to https://king-iptv.org/vip-plan/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=2
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=2 to https://king-iptv.org/channel-list13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=126
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=126 to https://king-iptv.org/tutorials13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=214190
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=214190 to https://king-iptv.org/faq13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=110
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=110 to https://king-iptv.org/how-to-pay13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=213047
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=213047 to https://king-iptv.org/affiliate13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=213045
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=213045 to https://king-iptv.org/reseller13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=218869
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=218869 to https://king-iptv.org/restreaming13/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=8
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=8 to https://king-iptv.org/contact-us11/
+14:58:01	Warning: 	Moved Permanently for https://king-iptv.org/?p=48
+14:58:01	Warning: 	File has moved from https://king-iptv.org/?p=48 to https://king-iptv.org/sub13/
+14:58:01	Error: 	"Bad Request" (400) at link https://king-iptv.org/wp-admin/admin-ajax.php?action=rest-nonce (from https://king-iptv.org/sub13/)
+14:58:02	Error: 	"Not Found" (404) at link https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://king-iptv.org/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.1.1)
 
-HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 4 seconds : 415 links scanned, 384 files written (20287717 bytes overall) [8331744 bytes received at 27407 bytes/sec], 17121918 bytes transferred using HTTP compression in 321 files, ratio 27%, 23.1 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 43 seconds : 420 links scanned, 389 files written (20516112 bytes overall) [8478730 bytes received at 38021 bytes/sec], 17242871 bytes transferred using HTTP compression in 323 files, ratio 27%, 24.7 requests per connection
 (3 errors, 55 warnings, 0 messages)
